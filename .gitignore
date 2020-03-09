@@ -1,0 +1,12 @@
+# production
+/out
+
+/files
+
+# Mac files
+**/.DS_Store*
+
+# IDE
+/.idea/*
+
+Nonogram.iml
